@@ -1474,4 +1474,5 @@ visibility:visible;
 .floating-whatsapp:hover{
 background:#1ebe5d;
 transform:scale(1.1);
+color: #fff;
 }
